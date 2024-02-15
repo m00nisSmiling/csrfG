@@ -14,9 +14,9 @@ def fun_csrfG():
  #user select 1
  Inp1 = input(colored('''
 User Interaction[1]
-Auto Interaction[2]
+Auto Action[2]
 1 or 2 > ''','blue'))
- Inp2 = input(colored('Total Parameter [1] [2] [3] [4] > ','blue'))
+ Inp2 = input(colored('Total Parameter [1] [2] [3] [4] [5] [6] ','blue'))
  if Inp1=='1':
   #User Interaction Progress
   if Inp2=='1':
