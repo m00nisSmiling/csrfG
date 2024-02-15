@@ -13,7 +13,7 @@ https://github.com/m00nisSmiling/csrfG/assets/122709554/843d72da-63b6-44f4-a1ce-
 --------------------------------------------------------------------------------------------
 ## Details
 #### - Choose [user interaction] or [auto action] in first input
-#### - Choose how many parameter 
+#### - Choose how many parameter ( 1,2,3,4,5,6 )
 #### - Add parameter names and values
 
 
