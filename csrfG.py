@@ -126,7 +126,7 @@ elif Inp1=='2':
   inp2 = input(colored('Value 1 > ','red'))
   inp4 = input(colored('Parameter 2 > ','red'))
   inp5 = input(colored('Value 2 > ','red'))
-  v1 = f"<form if='myForm' action='{inpu}' method='POST'>"
+  v1 = f"<form id='myForm' action='{inpu}' method='POST'>"
   v2 = f"<input type='hidden' name='{inp1}' value='{inp2}'>"
   v3 = f"<input type='hidden' name='{inp4}' value='{inp5}'>"
   print(f'''
